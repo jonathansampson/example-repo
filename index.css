@@ -1,0 +1,14 @@
+body {
+	background: burlywood;
+}
+
+main {
+	margin: 1em;
+	padding: 1em;
+	border: 1px solid aliceblue;
+}
+
+h1 {
+	color: rebeccapurple;
+	font-family: "Segoe UI";
+}
